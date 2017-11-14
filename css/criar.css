@@ -1,0 +1,17 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+body > div > div:nth-child(1) {
+	margin: 0 auto;
+}
+body > div > div:nth-child(1) > div {
+	margin: 0 auto;
+}
+body > div > div:nth-child(2) {
+	margin: 0 auto;
+}
+body > div > div:nth-child(2) > div {
+	margin: 0 auto;
+}
