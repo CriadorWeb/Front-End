@@ -1,0 +1,11 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+.barra {
+    border: 1px solid #eee;
+}
+body > div > div:nth-child(1) > div {
+	margin: 0 auto;
+}
